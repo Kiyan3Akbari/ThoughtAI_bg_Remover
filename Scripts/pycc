@@ -1,0 +1,3 @@
+#!C:\Users\Kiyan\OneDrive\Desktop\d\Streamlit-Image-Remover\venv\Scripts\python.exe
+from numba.pycc import main
+main()
