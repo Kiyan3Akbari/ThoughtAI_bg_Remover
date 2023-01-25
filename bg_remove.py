@@ -15,9 +15,8 @@ hide_st_style = """
 <style>
 #MainMenu {visibility: hidden; display: none;}
 footer {visibility: hidden;}
-header {display: none; visibility: hidden}
-.css-fblp2m {display:none;}
-.css-fblp2m {display: none;}
+
+
 <style>
 img, s
 img, s .css-1vencpc {
