@@ -12,12 +12,13 @@ st.write(
     "upload and download high quality images for free."
 )
 hide_st_style = """
+
+
+
 <style>
 #MainMenu {visibility: hidden; display: none;}
 footer {visibility: hidden;}
 
-
-<style>
 img, s
 img, s .css-1vencpc {
     position: relative;
